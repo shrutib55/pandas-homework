@@ -502,8 +502,5 @@ sharpe_ratios.plot(kind='bar');
 # 
 # Write your answer here!
 
-# In[ ]:
-
-
 #Costco outperformed the other stocks in the portfolio
 
